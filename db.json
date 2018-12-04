@@ -90,11 +90,8 @@
           "teacher": null,
           "description": null,
           "thumbImage": null
-      }
-  ],
-  "proximo":
-  [
-      {
+      },
+    {
           "id": "12345",
           "type": "Atividade Escolar",
           "occasion": "Horário de atendimento",
