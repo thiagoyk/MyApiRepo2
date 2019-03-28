@@ -3,15 +3,15 @@
   {
     "Serv1": true,
     "Serv2": true,
-    "Serv3": false,
-    "Serv4": false,
+    "Serv3": true,
+    "Serv4": true,
     "Serv5": true,
     "Serv6": true,
-    "Serv7": false,
+    "Serv7": true,
     "Serv8": true,
     "Serv9": true,
     "Serv10": true,
-    "Serv11": false,
-    "Serv12": false
+    "Serv11": true,
+    "Serv12": true
   }
 }
